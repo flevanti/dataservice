@@ -1,0 +1,16 @@
+{
+    "name": "flevanti/dataservice",
+    "type": "library",
+    "description": "A library to interact with a data source",
+    "keywords": ["dataservice","datasource","sdb","simpledb"],
+    "homepage": "https://levanti.net",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "flevanti",
+            "email": "francesco@levanti.net",
+            "homepage": "https://levanti.net",
+            "role": "Super-Developer"
+        }
+    ],
+}
